@@ -1,0 +1,71 @@
+.title1{
+    color: rgb(168, 43, 43);
+text-align: center;
+    margin-top: 1cm;
+background-color: beige;
+padding: 2%;
+
+}
+
+.plus1{
+    display: flex;
+    justify-content: space-between;
+
+}
+.plus2{
+    display: flex;
+    justify-content: space-between;
+}
+.plus3{
+    display: flex;
+    justify-content: space-between;
+}
+.delete1{
+    display: flex;
+    justify-content: space-between;
+}
+.delete2{
+    display: flex;
+    justify-content: space-between;
+}
+.delete3{
+    display: flex;
+    justify-content: space-between;
+}
+.total1{
+    display: flex;
+    justify-content: space-between;
+}
+.total2{
+    display: flex;
+    justify-content: space-between;
+}
+.total3{
+    display: flex;
+    justify-content: space-between;
+}
+.unit-price{
+    font-size: 30px;
+    font-weight: bold;
+    color: hotpink;
+
+}
+.card-body span{
+    font-size: 30px;
+    font-weight: bold;
+    color: hotpink;
+}
+
+
+
+.like{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.total-price{
+    font-size: 30px;
+    background-color: beige;
+    justify-content:center;
+}
+
